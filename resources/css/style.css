@@ -202,6 +202,10 @@ header {
   padding-top: 10%;
 }
 
+h1:hover:after {
+  content: " I'm ronana";
+}
+
 .hero-text-box {
   position: absolute;
   width: 1140px;
