@@ -15,7 +15,7 @@ html {
 
 .container {
   margin: 0 auto;
-  width: 1200px;
+  width: 80%;
 }
 
 /* HEADER */
@@ -79,7 +79,7 @@ nav {
 }
 
 .header-container {
-  width: 1200px;
+  width: 80%;
   position: absolute;
   /*  In relation to parent element size */
   left: 50%;
